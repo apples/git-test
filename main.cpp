@@ -1,4 +1,6 @@
 #include <iostream>
 #include <utility>
 
-int main() {}
+int main() {
+	std::cout << "hi" << std::endl;
+}
