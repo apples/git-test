@@ -2,6 +2,6 @@
 #include <utility>
 
 int main() {
-	std::cout << "hi" << std::endl;
+	std::cout << "Howdy, world!" << std::endl;
 	return -1;
 }
